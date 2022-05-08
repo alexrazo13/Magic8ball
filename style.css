@@ -1,5 +1,6 @@
 body {
     background-color: hotpink;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #content {
@@ -7,6 +8,8 @@ body {
     width: 400px;
     margin: auto;
     text-align: center;
+    padding: 20px;
+    border-radius: 5px;
 }
 
 #eightBall {
@@ -14,6 +17,8 @@ body {
     height: 350px;
     background: black;
     color: white;
+    margin: auto;
+    margin-top: 10px;
     border-radius: 100%;
     display: grid;
     justify-content: center;
