@@ -1,5 +1,5 @@
 body {
-    background-color: hotpink;
+    background: radial-gradient(circle, pink 25%, hotpink 75%);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -15,7 +15,7 @@ body {
 #eightBall {
     width: 350px;
     height: 350px;
-    background: black;
+    background-color: rgb(31, 31, 32);
     color: white;
     margin: auto;
     margin-top: 10px;
